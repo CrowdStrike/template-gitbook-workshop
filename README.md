@@ -1,4 +1,4 @@
-# CrowdStrike Workshop Tempalte
+# CrowdStrike Workshop Template
 
 Welcome! This project provides scaffolding to making your own CrowdStrike workshop/coursebook. 
 
@@ -17,6 +17,8 @@ This workshop is available under the Creative Commons [Attribution-NonCommercial
 1. Give us credit for creating it
 1. Maintain the original license
 1. Continue to offer it free of charge
+
+Speaking of credit, this workshop template extends work originally done by [Founders and Coders](https://www.foundersandcoders.com/) on their own coursework. Founders and Coders is a UK-based nonprofit that develops and runs tuition-free, peer-led training programmes in web development, guided by their core values of cooperation, inclusion and social impact.
 
 #### What you can do
 
