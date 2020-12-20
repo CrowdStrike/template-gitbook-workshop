@@ -1,11 +1,7 @@
 ## Student Handbook
 
+- [Precourse Checklist](handbook/precourse.md)
 - [Code of Conduct](handbook/code-of-conduct.md)
-- [Course Rules](handbook/course-rules.md)
-- [Pair programming](handbook/pair-programming.md)
-- [Spikes](handbook/spikes.md)
-- [Projects](handbook/projects.md)
-- [Code review](handbook/code-review.md)
 - [Retrospectives](handbook/retrospectives.md)
 
 ## Curriculum
@@ -22,8 +18,3 @@
   - [Spikes](curriculum/authentication/spikes.md)
   - [Project](curriculum/authentication/project.md)
   - [Resources](curriculum/authentication/resources.md)
-
-## Precourse
-
-- [Precourse](precourse/precourse.md)
-- [Installation list](precourse/installation-list.md)
