@@ -1,6 +1,9 @@
 # template-gitbook-workshop
-=======
-# Founders and Coders Curriculum
+Scaffolding for making your own CrowdStrike workshop/workbook!
+
+-----
+
+# Your Workshop/Workbook Name
 
 Welcome to our curriculum. This material forms the basis of our tuition-free, peer-led web development programme.
 
@@ -82,48 +85,3 @@ The timetable can differ from week to week. See each week's schedule for details
 | 17:00   | Speaker             | A technical talk from an employment partner or FAC alum |
 | 17:45   | Check-out           |                                                         |
 | _18:00_ | _Finish_            |                                                         |
-
-### Day 3
-
-| Time    | Activity             | Description                                                     |
-| ------- | -------------------- | --------------------------------------------------------------- |
-| 09:45   | Check-in             |                                                                 |
-| 10:00   | Morning Challenge    | A workshop to challenge your understanding of this week's topic |
-| 11:00   | Project              |                                                                 |
-| 12:45   | Role circles         |                                                                 |
-| _13:00_ | _Lunch_              |                                                                 |
-| 14:00   | Project              | Discussions held with potential Tech for Better partners        |
-| 15:30   | Employment prep      | Portfolio, CV, media presence and interview prep (weeks 5+)     |
-| 16:30   | Community engagement |                                                                 |
-| 17:45   | Check-out            |                                                                 |
-| _18:00_ | _Finish_             |                                                                 |
-
-### Day 4
-
-| Time    | Activity  | Description |
-| ------- | --------- | ----------- |
-| 09:45   | Check-in  |             |
-| 10:00   | Project   |             |
-| _13:00_ | _Lunch_   |             |
-| 14:00   | Project   |             |
-| 17:15   | Code Q&A |
-| 17:45   | Check-out |             |
-| _18:00_ | _Finish_  |             |
-
-### Day 5
-
-| Time    | Activity            | Description                                                          |
-| ------- | ------------------- | -------------------------------------------------------------------- |
-| 09:45   | Check-in            |                                                                      |
-| 10:00   | Code Review         | Review another team's project code                                   |
-| 11:00   | Respond to issues   | Refactor your project based upon the feedback you got in code review |
-| 12:00   | Role circles        |                                                                      |
-| 12:15   | Presentation prep   |                                                                      |
-| _13:00_ | _Lunch_             |                                                                      |
-| 14:00   | Presentations       | Present your project from this week                                  |
-| 15:15   | Stop, Go, Continue  | Cohort retrospective                                                 |
-| 16:00   | Team SGCs           | Project team retrospectives                                          |
-| 16:45   | Update user manuals |                                                                      |
-| 17:00   | Speaker             | A talk from an employment partner or FAC alum                        |
-| 17:45   | Check-out           |                                                                      |
-| _18:00_ | _Finish_            |                                                                      |
