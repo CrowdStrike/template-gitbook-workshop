@@ -15,6 +15,10 @@ CrowdStrike workshops are delivered entirely online. No special software is need
 
 3. For sessions delivered remotely, [Zoom](https://zoom.us/download) provides video conferencing capabilities. There are standalone clients freely available for most operating systems, and plugins available for popular web browsers.
 
+*You're going to be spending a lot of time in a web browser*, usually with many tabs open. Modern browsers can be pretty memory-hungry (looking at you, Chrome), so having more RAM tends to make for a smoother experience. If your laptop runs out of RAM it'll start suspending apps/tabs in the background, which isn't ideal.
+
+**We recommend your laptop has a minimum of 4GB of RAM**. You can't really have too much here though, 8GB+ would probably be ideal.
+
 ## Precourse Material
 
 1. [FHT 200: Falcon Platform for Administrators](#fht-200-falcon-plaform-for-administrators)

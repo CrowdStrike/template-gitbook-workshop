@@ -34,30 +34,24 @@ Speaking of credit, this workshop template extends work originally done by [Foun
 
 ## Topics
 
-| Week | Topic                                                                                                              |
+| Day | Topic                                                                                                              |
 | ---- | ------------------------------------------------------------------------------------------------------------------ |
-| 1    | [Teamwork and Toolkit](https://founders-and-coders.gitbook.io/coursebook/curriculum/teamwork-and-toolkit/schedule) |
-| 2    | [HTTP](https://founders-and-coders.gitbook.io/coursebook/curriculum/http/schedule)                                 |
-| 3    | [Testing](https://founders-and-coders.gitbook.io/coursebook/curriculum/testing/schedule)                           |
-| 4    | [Node](https://founders-and-coders.gitbook.io/coursebook/curriculum/node/schedule)                                 |
-| 5    | [Databases](https://founders-and-coders.gitbook.io/coursebook/curriculum/databases/schedule)                       |
-| 6    | [Authentication](https://founders-and-coders.gitbook.io/coursebook/curriculum/authentication/schedule)             |
-| 7    | [REST APIs](https://founders-and-coders.gitbook.io/coursebook/curriculum/rest-apis/schedule)                       |
-| 8    | [Single Page Apps](https://founders-and-coders.gitbook.io/coursebook/curriculum/single-page-app/schedule)              |
-| 9    | [React](https://founders-and-coders.gitbook.io/coursebook/curriculum/react/schedule)                               |
+| 1    | [Databases](https://founders-and-coders.gitbook.io/coursebook/curriculum/databases/schedule)                       |
+| 2    | [Authentication](https://founders-and-coders.gitbook.io/coursebook/curriculum/authentication/schedule)             |
+
 
 ## Default Schedule
 
-The timetable can differ from week to week. See each week's schedule for details. There is usually an additional reading week after Week 7 or 8.
+The timetable can differ from one workshop delivery to the next. See each day's schedule for details.
 
 ### Day 1
 
 | Time    | Activity                | Description                                 |
 | ------- | ----------------------- | ------------------------------------------- |
-| 09:45   | Mentors intro           | Mentors introduce themselves                |
+| 09:45   | Instructor intro           | Instructors introduce themselves         |
 | 09:50   | Check-in                |                                             |
 | 10:00   | Feedback on last week   | Airtable online survey                      |
-| 10:05   | Intro presentation      | Mentors present on this week's topic        |
+| 10:05   | Intro presentation      | Instructor's present on this week's topic   |
 | 10:20   | Intro workshop          | Short introductory workshop                 |
 | 11:00   | Workshop                | The first of four 2-hour workshops          |
 | _13:00_ | _Lunch_                 |                                             |
@@ -79,6 +73,6 @@ The timetable can differ from week to week. See each week's schedule for details
 | _13:00_ | _Lunch_             |                                                         |
 | 14:00   | Workshop            |                                                         |
 | 16:00   | Tech for Better     |                                                         |
-| 17:00   | Speaker             | A technical talk from an employment partner or FAC alum |
+| 17:00   | Speaker             | Sometimes guest lectures are an option!                 |
 | 17:45   | Check-out           |                                                         |
 | _18:00_ | _Finish_            |                                                         |

@@ -1,6 +1,6 @@
 # Workshop Retrospectives
 
-No matter how well a team works together, or how well a week goes, there is always an opportunity to learn and improve.
+No matter how well a team works together, or how well a workshop goes, there is always an opportunity to learn and improve.
 
 We end every workshop with a retrospective, and depending on the content, retrospectives might be ran daily. It is a dedicated period of time for students & mentors
 to deliberately reflect together on how we are doing and identify ways to improve.
